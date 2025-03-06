@@ -2,6 +2,8 @@
 
 C++ programming modules from 42 Porto curriculum, covering fundamental to advanced concepts using C++98 standard.
 
+![cpp](./cpp.jpg)
+
 ## About
 
 These modules introduce C++ programming through hands-on exercises, starting from basic object-oriented programming to advanced topics like templates and STL. All code follows C++98 standard.
